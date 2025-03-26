@@ -10,7 +10,7 @@ The objective of this project is to develop a Neural Network Regression Model th
 
 ## Neural Network Model
 
-![Screenshot 2025-03-03 112637](https://github.com/user-attachments/assets/012e0e29-0811-4ae1-aebe-e51a9bbd3ab7)
+![Screenshot 2025-03-03 112637](https://github.com/user-attachments/assets/b02f5aef-bf22-456f-82b7-aaa54124cf66)
 
 ## DESIGN STEPS
 
